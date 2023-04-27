@@ -1,0 +1,19 @@
+<svg width="87" height="28" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="30" width="89" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_2" y="22.018342" x="-0.000004" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#fbfbfb">Stud.</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_3" y="22.018343" x="63.32041" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#75e8e7">io</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_4" y="22.018343" x="65.180875" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#75e8e7">io</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_5" y="22.018343" x="64.715758" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#75e8e7">io</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_6" y="22.018343" x="64.250642" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#75e8e7">io</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_7" y="22.018343" x="63.785526" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#75e8e7">io</text>
+ </g>
+</svg>
